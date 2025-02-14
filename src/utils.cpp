@@ -15,4 +15,8 @@ inline bool cmp(int x, int y) {
     return (x == y);
 }
 
+inline int mul(int x, int y) {
+    return x * y;
+}
+
 #endif
