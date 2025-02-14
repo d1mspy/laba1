@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/user/Documents/GitHub/laba1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\laba1.dir\\src\\main.cpp.obj -c C:\\Users\\user\\Documents\\GitHub\\laba1\\src\\main.cpp",
+  "file": "C:/Users/user/Documents/GitHub/laba1/src/main.cpp",
+  "output": "CMakeFiles/laba1.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Documents/GitHub/laba1/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\laba1.dir\\src\\utils.cpp.obj -c C:\\Users\\user\\Documents\\GitHub\\laba1\\src\\utils.cpp",
+  "file": "C:/Users/user/Documents/GitHub/laba1/src/utils.cpp",
+  "output": "CMakeFiles/laba1.dir/src/utils.cpp.obj"
+}
+]
