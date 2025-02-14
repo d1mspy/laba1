@@ -7,5 +7,6 @@ int main() {
     int sum = 0;
     sum = add(x, dec(y));
     std::cout << "x + (y - 1) = " << sum << '\n';
-    std::cout << cmp(x, y) << '\n';
+    std::cout << "result of comparing x and y: " << cmp(x, y) << '\n';
+    std::cout << "program finished!";
 }
